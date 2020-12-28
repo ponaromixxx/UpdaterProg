@@ -1,8 +1,8 @@
 <sharpUpdate>
-  <update appID="TestApp">
+  <update appID="TestAppUPK">
     <version>1.0.1.0</version>
     <url>https://raw.githubusercontent.com/ponaromixxx/UpdaterProg/master/TestApp2/bin/Debug/TestApp.exe</url>
-    <fileName>TestApp.exe</fileName>
+    <fileName>TestAppUPK.exe</fileName>
     <md5>26A0D62B600C68813D8E27687F3DE79F</md5>
     <launchArgs>
     </launchArgs>
@@ -13,7 +13,7 @@
     <update appID="UPK">
     <version>1.0.1.0</version>
     <url>https://raw.githubusercontent.com/ponaromixxx/UpdaterProg/master/TestApp2/bin/Debug/TestApp.exe</url>
-    <fileName>Files\TestApp.exe</fileName>
+    <fileName>Files\Files.upk</fileName>
     <md5>26A0D62B600C68813D8E27687F3DE79F</md5>
     <launchArgs>
     </launchArgs>
