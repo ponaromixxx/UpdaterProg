@@ -10,7 +10,7 @@
    1. Files.upk: Добавлено пару текстур!
     </description>
   </update>
-  <update>
+  <update appID="TestApp">
     <version>1.0.1.0</version>
     <url>https://raw.githubusercontent.com/ponaromixxx/UpdaterProg/master/TestApp2/bin/Debug/TestApp.exe</url>
     <fileName>TestApp.exe</fileName>
